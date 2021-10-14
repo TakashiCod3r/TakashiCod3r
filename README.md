@@ -1,7 +1,7 @@
 ### Olaaa eu sou o Luiz mas pode me chamar de Takashi  👋
 
 
-- 🔭 Hoje Trabalho como Tecnico de rede
+- 🔭 Hoje Trabalho como Tecnico de redes
 - 🌱 Estudando JavaScript/React/NodeJS/Python
 - 📫 Contate-me no email: luizhenriquecanazart@gmail.com
 - 🛠 Gosto de Desafios
