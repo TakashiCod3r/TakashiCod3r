@@ -3,7 +3,7 @@
 
 - 🔭 Hoje Trabalho como Tecnico de redes
 - 🌱 Estudando JavaScript/React/NodeJS/Python
-- 📫 Contate-me no email: luizhenriquecanazart@gmail.com
+- 📫 Contate-me no email: Takashicoder@outlook.com
 - 🛠 Gosto de Desafios
 - 📚 Sempre em busca de conhecimento
 
