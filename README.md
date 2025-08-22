@@ -1,40 +1,76 @@
-### Olaaa eu sou o Luiz mas pode me chamar de Takashi  👋
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
 
-- 🔭 Hoje Trabalho como Tecnico de redes
-- 🌱 Estudando JavaScript/React/NodeJS/Python
-- 📫 Contate-me no email: Takashicoder@outlook.com
-- 🛠 Gosto de Desafios
-- 📚 Sempre em busca de conhecimento
-
-
-<div >
-  <a href="https://github.com/TakashiCod3r">
-  <img img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=TakashiCod3r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakashiCod3r&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Taka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Taka-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Taka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Taka-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Taka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Taka-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  
-  <img align="right" alt="Taka-pic" height="150" style="border-radius:100px;" src="https://c.tenor.com/uipbyAqs5rEAAAAC/anime-anime-glasses.gif" width="150" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takashicod3r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Takashicod3r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/3TAXjc5wYe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:luizhenriquecanazart@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-henrique-canazart-1854641b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-![Snake animation](https://github.com/TakashiCod3r/TakashiCod3r/blob/output/github-contribution-grid-snake.svg)
- 
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpoZWxmNTNmMXJuOXh5djVvYnZkMjB3Y2toYmVkcmZvYTd6c250ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/14ykqngG4rUYpi/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Takashicod3r/Takashicod3r/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Takashicod3r.Takashicod3r&left_color=darkcyan"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Takashicod3r&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Takashicod3r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Takashicod3r&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
